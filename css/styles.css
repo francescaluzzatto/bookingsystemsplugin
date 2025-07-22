@@ -1,0 +1,101 @@
+#calendar {
+    max-width: 900px;
+    margin: 0 auto;
+    height: 500px;
+}
+
+/*#custom-form{
+    margin-top:500px
+}*/
+
+#popup{
+    display:none;
+    margin-top:450px;
+    z-index:1000;
+    position:absolute;
+    margin-left: 30%;
+    background-color:white;
+    color:black;
+    padding: 30px;
+    border-radius: 15px; /* Rounded corners */
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+/*#calendar_wrapper{
+    position:relative;
+}*/
+
+#new_popup{
+    display:none;
+    /*margin-top:250px;*/
+    top:0px;
+    left:20%;
+    z-index:1000;
+    position:absolute;
+    /*margin-left: 30%;*/
+    background-color:white;
+    color:black;
+    padding: 30px;
+    border-radius: 15px; /* Rounded corners */
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+#modify_event_popup{
+    display:none;
+    /*margin-top:250px;*/
+    top:0px;
+    left:20%;
+    z-index:1000;
+    position:absolute;
+    /*margin-left: 30%;*/
+    background-color:white;
+    color:black;
+    padding: 30px;
+    border-radius: 15px; /* Rounded corners */
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+#modify_or_delete_popup{
+    display:none;
+    /*margin-top:250px;*/
+    top:0px;
+    left:20%;
+    z-index:1000;
+    position:absolute;
+    /*margin-left: 30%;*/
+    background-color:white;
+    color:black;
+    padding: 30px;
+    border-radius: 15px; /* Rounded corners */
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+#delete_event_popup{
+    display:none;
+    /*margin-top:250px;*/  
+    top:0px;
+    left:20%;
+    z-index:1000;
+    position:absolute;
+    /*margin-left: 30%;*/
+    background-color:white;
+    color:black;
+    padding: 30px;
+    border-radius: 15px; /* Rounded corners */
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.sure_popup{
+    display:none;
+    /*margin-top:250px;*/
+    top:0px;
+    left:20%;
+    z-index:1000;
+    position:absolute;
+    /*margin-left: 30%;*/
+    background-color:white;
+    color:black;
+    padding: 30px;
+    border-radius: 15px; /* Rounded corners */
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+}
